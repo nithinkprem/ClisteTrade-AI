@@ -1,0 +1,11 @@
+# Credentials and Environment Configurations
+.env
+*.env
+
+# Python Bytecode and Cache Directories
+__pycache__/
+*.py[cod]
+*$py.class 
+
+# Local user outputs
+output_btc.json
